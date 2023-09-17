@@ -27,6 +27,8 @@ I'm currently working on several exciting projects, including:
 
 I am always open to collaborating with other developers and enthusiasts on projects that align with my interests and expertise. If you have a project in mind or would like to discuss potential collaborations, feel free to reach out to me.
 
+## Currently learning python
+
 ## Contact Information
 
 You can contact me via email at [oluobamzy@gmail.com](mailto:oluobamzy@gmail.com) Let's work together to build amazing web applications!
