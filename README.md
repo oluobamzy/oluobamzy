@@ -1,6 +1,6 @@
 # Oluwasegun Idowu
 
-![Profile Banner](https://github.com/oluobamzy/tweeter/blob/9f0dac8b5809fb9757b6f9ccf9daf4aa76d64990/Docs/Github%20banner.png)
+![Profile Banner](Docs/Github banner.png)
 
 ## About Me
 
