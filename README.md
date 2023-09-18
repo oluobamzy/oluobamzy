@@ -1,5 +1,5 @@
 # Oluwasegun Idowu
-![](Github banner.png)
+![](Githubbanner.png)
 
 ## About Me
 
