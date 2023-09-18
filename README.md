@@ -1,6 +1,6 @@
 # Oluwasegun Idowu
 
-![Profile Banner](Docs/Github banner.png)
+![](Docs/Github banner.png?raw=true)
 
 ## About Me
 
