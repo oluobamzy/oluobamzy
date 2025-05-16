@@ -87,7 +87,7 @@ I'm particularly interested in opportunities related to:
 You can contact me via:
 - Email: [oluobamzy@gmail.com](mailto:oluobamzy@gmail.com)
 - LinkedIn: [Idowu Oluwasegun Abiodun](https://www.linkedin.com/in/idowu-oluwasegun-abiodun/)
-- Website: [CarePro](https://oncarepro.com/)
+- Website: [CarePro](https://oncarepro.com/),[Codesquare](https://codesquare.io)
 
 Let's work together to build amazing web applications and implement effective project management methodologies!
 
